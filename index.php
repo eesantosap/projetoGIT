@@ -21,7 +21,8 @@
             <label class="mr-2" for="seleciona1">Emissor</label>
             <select class="custom-select" id="seleciona1">
               <option value="1" selected="1">SSP</option>
-              <option value="2">POC</option>
+              <option value="2">SEJUS</option>
+              <option value="2">POLITEC</option>
             </select>
           </div>
           <div class="form-group">
